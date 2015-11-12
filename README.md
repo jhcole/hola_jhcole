@@ -19,7 +19,9 @@ Or install it yourself as:
 ## Usage
 
 HolaJhcole::Hola.hi
+
 HolaJhcole::Hola.hi("english")
+
 HolaJhcole::Hola.hi("spanish")
 
 ## Contributing
